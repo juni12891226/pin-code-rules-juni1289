@@ -1,6 +1,6 @@
 name: pin_code_rules_utils_juni1289
 description: A Flutter package that can check the PIN | Password rules for the Validations Purposes
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/juni12891226/pin-code-rules-utils-juni1289
 
 environment:
